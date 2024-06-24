@@ -1,16 +1,17 @@
 # Sviatoslav Dichenko
 ## QA Engineer
-**Email**: psychobut@gmail.com
+
+### My Contacts
+* Email: psychobut@gmail.com
+* Telegram: @valso_ok
+* [LinkedIn page](https://www.linkedin.com/in/sviatoslav-dichenko-7444821b8/)
 ---
-**Telegram**: @valso_ok
----
-[LinkedIn page](https://www.linkedin.com/in/sviatoslav-dichenko-7444821b8/)
----
-I have an experience 5+ years in manual testing and Quality Assurance activities.
+### About myself
+*I have an experience 5+ years in manual testing and Quality Assurance activities.
 Last time I am really interested in Front-End developer position.
-So I guess that RS School will be definitely the right way to start my journey
+So I guess that RS School will be definitely the right way to start my journey*
 ---
-**My Soft skills**
+### My Soft skills
 * Software Testing (“The Fundamentals of Software Testing” in QATestLab Training Center, “Quality Assurance (QA)” by Netcracker);
 * Big Data (“Introduction to Big Data” by UC San Diego, “Analyzing Big Data with SQL” by Cloudera, “Foundations for Big Data Analysis with SQL” by Cloudera);
 * SQL (“SQL for Beginners” by Udemy);
@@ -26,7 +27,7 @@ So I guess that RS School will be definitely the right way to start my journey
 * IDEs: Microsoft Visual Studio;
 * Methodologies: Agile, Scrum.
 ---
-**My Soft skills**
+### My Hard skills
 * Fast learner;
 * Goal oriented;
 * Analytical Thinking;
