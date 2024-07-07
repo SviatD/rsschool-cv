@@ -12,7 +12,7 @@
 </head>
 <body>
     <header class="header">
-        <div class="container header-container">
+        <div class="container">
             <nav class="nav">
                 <ul class="nav-list">
                     <li class="nav-item">
@@ -62,13 +62,15 @@
     <main class="main">
         <div class="container main-container">
             <section class="section section-profile" id="profile">
-                <img src="./assets/img/avatar.png" class="section-profile-avatar" alt="avatar">
-                <h1 class="section-title main-title">
-                    Sviatoslav Dichenko
-                </h1>
-                <h3 class="section-subtitle">
-                    QA Engineer
-                </h3>
+                <img src="./assets/img/avatar.png" class="avatar" alt="avatar">
+                <div class="section-profile-title">
+                    <h1 class="section-title primary-title">
+                        Sviatoslav Dichenko
+                    </h1>
+                    <h3 class="secondary-title">
+                        QA Engineer
+                    </h3>
+                </div>
             </section>
             <section class="section" id="contacts">
                 <h2 class="section-title">
@@ -98,7 +100,7 @@
                     </li>
                     <li class="section-item">
                         "Discord:"
-                        <a href="https://discord.gg/zvBrnuyu">
+                        <a href="https://discord.gg/zvBrnuyu" title="discord">
                             @SviatD
                         </a>
                     </li>
@@ -194,11 +196,14 @@
     <footer class="footer">
         <div class="container footer-container">
             <div>
-            " &#9400; 2024"
-            <a href="https://github.com/SviatD">SviatD</a>
+                &#9400; 2024
+                <a href="https://github.com/SviatD" class="github nav-link">
+                    SviatD
+                </a>
             </div>
             <a href="https://rs.school/js/" class="rss"></a>
         </div>
     </footer>
+    <script src="./index.js"></script>
 </body>
 </html>
